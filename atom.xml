@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fzdy.github.io</id>
     <title>Fz_blog</title>
-    <updated>2021-08-17T12:17:21.129Z</updated>
+    <updated>2021-08-17T12:57:25.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fzdy.github.io"/>
     <link rel="self" href="https://fzdy.github.io/atom.xml"/>
@@ -10,4 +10,77 @@
     <logo>https://fzdy.github.io/images/avatar.png</logo>
     <icon>https://fzdy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Fz_blog</rights>
+    <entry>
+        <title type="html"><![CDATA[詹木丝儿fit的健身计划]]></title>
+        <id>https://fzdy.github.io/post/sports_plan_V1/</id>
+        <link href="https://fzdy.github.io/post/sports_plan_V1/">
+        </link>
+        <updated>2021-08-17T12:17:26.000Z</updated>
+        <content type="html"><![CDATA[<p>[toc]</p>
+<hr>
+<h1 id="总览">总览</h1>
+<html>
+    <table border="1" caption="速度">
+    <caption>七天健身计划</caption>
+        <tr>
+            <th>天数</th>
+            <th>运动前热身</th>
+            <th>动作1</th>
+            <th>动作2</th>
+            <th>动作3</th>
+            <th>运动后拉伸</th>
+        </tr>
+        <tr>
+            <td>第一天</td>
+            <td>[运动前必做的热身丨预防受伤和提升运动表现]（https://www.bilibili.com/video/BV1WK4y1G7Xk）</td>
+            <td>[消灭脂肪胸，打造有型胸肌（无器械训练）](https://www.bilibili.com/video/BV1dg41177GJ)</td>
+            <td>[在家练出胸肌和手臂，100次俯卧撑训练！](https://www.bilibili.com/video/BV1mQ4y1Z7qL)</td>
+            <td>[无器械练胸（上胸，中缝，下胸）](https://www.bilibili.com/video/BV1C5411N7i5)</td>
+            <td>[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+        <tr>
+            <td>第二天</td>
+            <td>[运动前必做的热身丨预防受伤和提升运动表现]（https://www.bilibili.com/video/BV1WK4y1G7Xk）</td>
+            <td>[绝杀肚腩，显现清晰腹肌！](https://www.bilibili.com/video/BV1Ah411m756)</td>
+            <td>[燃烧全身脂肪丨不吵邻居悄悄变瘦](https://www.bilibili.com/video/BV1RK4y1N7Tm)</td>
+            <td>[暑期宅家燃脂必备丨不吵邻居悄悄变瘦](https://www.bilibili.com/video/BV1YL411p7zB)</td>
+            <td>[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+        <tr>
+            <td>第三天</td>
+            <td>[运动前必做的热身丨预防受伤和提升运动表现]（https://www.bilibili.com/video/BV1WK4y1G7Xk）</td>
+            <td>[无器械练背丨适合没有引体向上单杠的人群](https://www.bilibili.com/video/BV1VV411n7v4)</td>
+            <td>[拯救窄肩，告别瘦弱体型！(无器械练肩）](https://www.bilibili.com/video/BV1gB4y1T7U3)</td>
+            <td>[无器械锻炼手臂（三头肌）](https://www.bilibili.com/video/BV1Ay4y1n7Mz)</td>
+            <td>[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+        <tr>
+            <td>第四天</td>
+            <td colspan="5">[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+        <tr>
+            <td>第五天</td>
+            <td>[运动前必做的热身丨预防受伤和提升运动表现](https://www.bilibili.com/video/BV1WK4y1G7Xk)</td>
+            <td>[男士必练，让另一半幸福加倍！(无器械练臀腿）](https://www.bilibili.com/video/BV1U64y1d7sF)</td>
+            <td>[无器械练腿丨居家运动必练的肌肉](https://www.bilibili.com/video/BV1gV411i7Qg)</td>
+            <td></td>
+            <td>[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+        <tr>
+            <td>第六天</td>
+            <td>[运动前必做的热身丨预防受伤和提升运动表现]（https://www.bilibili.com/video/BV1WK4y1G7Xk）</td>
+            <td>[下腹轰炸训练丨显现下侧腹肌](https://www.bilibili.com/video/BV1ci4y1A7cJ)</td>
+            <td>[爆燃腹肌训练！快速打造6块腹肌](https://www.bilibili.com/video/BV1Bv41187QY)</td>
+            <td>[轰炸腹斜肌丨打造人鱼线](https://www.bilibili.com/video/BV1ef4y1476X)</td>
+            <td>[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+        <tr>
+            <td>第七天</td>
+            <td colspan="5">[运动后必做的拉伸丨缓解肌肉紧张和体态不良](https://www.bilibili.com/video/BV1Yf4y1z76H)</td>
+        </tr>
+    </table>
+</html>
+<p>整理源于<a href="https://space.bilibili.com/382484510/dynamic">b站up主詹木丝儿fit的7天健身计划</a></p>
+]]></content>
+    </entry>
 </feed>
